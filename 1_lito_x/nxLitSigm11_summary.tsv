@@ -1,0 +1,7 @@
+query_chr	assigned_chr	assigned_chr_busco_count	total_query_chr_busco_chr	perc	ref_A_count	ref_B_count	ref_C_count	ref_D_count	ref_E_count	ref_N_count	ref_X_count	ref_nigon_count
+SUPER_1	A	524	633	0.83	524	23	29	20	15	17	5	0
+SUPER_2	C	504	595	0.85	34	18	504	9	14	8	8	0
+SUPER_3	B	386	499	0.77	27	386	30	20	19	12	5	0
+SUPER_4	N	224	395	0.57	46	30	45	28	17	224	5	0
+SUPER_5	E	292	421	0.69	34	21	25	28	292	17	4	0
+SUPER_X	D	208	439	0.47	25	25	37	208	17	13	114	0
